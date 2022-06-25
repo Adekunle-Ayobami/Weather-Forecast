@@ -16,6 +16,3 @@ if response.status_code == 200:
     print('Temperature', temperature, 'celsius')
 else:
     print('An error occurred')
-
-git config --global user.email "ayobamisamuel58@gmail.com"
-git config --global user.name "YAyobami"
